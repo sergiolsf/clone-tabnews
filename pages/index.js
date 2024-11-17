@@ -19,7 +19,7 @@ function Home() {
                 Yet, the deeper we dig, the more we question the solidity of the ground beneath us. What if there is no bottom? What if the soul is an infinite abyss, and the act of digging is both our salvation and our doom?
             </h2>
 
-            <h1>Cavando Minha Alma</h1>
+            <h1>Digging my Soul</h1>
             <h2>
                 As o mole carves its path, I feel its claws echoing within me. Every fragment of soil displaced mirrors the displacement of my own certainties. My soul, like the earth, is layered: memories compacted like sedimentary rock, dreams shimmering like veins of quartz, and regrets buried like fossils. Each scoop of dirt feels like the excavation of something buried too deep for light but too important to leave untouched.
                 The mole digs not because it knows what lies ahead, but because digging is its nature. And I? I dig into myself because the alternative—stagnation—is unbearable. With each clawing motion, I confront the darkness of my own being, hoping to find something worth unearthing.
